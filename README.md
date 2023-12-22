@@ -90,6 +90,8 @@ I tested the Predictions on the inference code by loading the saved .h5 weights 
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/girishchowdary22)
 
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Girish-Chowdary)
+
 ## 🚀 About Me
 
 I am Girish Chowdary, an enthusiastic and versatile individual deeply passionate about the realm of technology and its endless possibilities.
